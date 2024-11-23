@@ -20,6 +20,7 @@ public class Problema01 {
         // TODO code application logic here
         Scanner entrada = new Scanner(System.in);
         entrada.useLocale(Locale.US);
+        
         String cadenaReporte = "";
         String nombreJugador;
         String posicionCampo;
